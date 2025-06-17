@@ -1,6 +1,6 @@
 # lung-cancer-detection
 Predicting lung cancer risk using clinical data and classification models
-# 🫁 Lung Cancer Detection with Machine Learning
+# 🩺 Lung Cancer Detection with Machine Learning
 
 This project uses machine learning to predict the likelihood of lung cancer based on clinical and behavioral features. A strong classification task with real-world impact in early cancer detection.
 
